@@ -16,10 +16,10 @@ const AboutMe = () => {
                     am always eager to learn and driven by problem-solving.
                 </p>
                 <p className='text-lg mb-4'>
-                    Living with Tourette's, I've harnessed personal challenges
-                    into resilience and creativity. This fuels my determination
-                    to apply my skills in various contexts and to endlessly
-                    pursue the untapped potential of technology.
+                    Living with Tourette&apos;s, I&apos;ve harnessed personal
+                    challenges into resilience and creativity. This fuels my
+                    determination to apply my skills in various contexts and to
+                    endlessly pursue the untapped potential of technology.
                 </p>
                 <p className='text-lg'>
                     Committed to continuous growth, I aim to contribute
